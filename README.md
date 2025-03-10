@@ -1,4 +1,4 @@
-#🧸🔍 Custom Image Recognition with YOLO
+# 🧸🔍 Custom Image Recognition with YOLO
 
 I took pictures of my stuffed pokemon.
 
@@ -8,7 +8,7 @@ Check out the project in action in this video:
 
 [![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://www.youtube.com/watch?v=5XR7naZ_zZA&list=RDMM5XR7naZ_zZA&index=1)
 
-###📁 Project Structure
+### 📁 Project Structure
 
 - data/: Contains the dataset used for training.
 - model m/ and model n/: Folders that may contain different versions of the trained model.
