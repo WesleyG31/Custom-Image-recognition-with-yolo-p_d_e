@@ -6,7 +6,7 @@ This project implements an image recognition model using YOLO (You Only Look Onc
 
 Check out the project in action in this video:
 
-[![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://www.youtube.com/watch?v=5XR7naZ_zZA)
+[![](https://markdown-videos.deta.dev/youtube/5XR7naZ_zZA)](https://youtu.be/watch?v=5XR7naZ_zZA)
 
 ### 📁 Project Structure
 
